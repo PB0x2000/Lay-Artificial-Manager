@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lay Artificial Manager", "Lay Artificial Manager\Lay Artificial Manager.csproj", "{EC37E8B8-34AE-4289-AFA1-6C061A805F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC37E8B8-34AE-4289-AFA1-6C061A805F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC37E8B8-34AE-4289-AFA1-6C061A805F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC37E8B8-34AE-4289-AFA1-6C061A805F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC37E8B8-34AE-4289-AFA1-6C061A805F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE4F6CF9-2302-455C-96F9-58F02E1AAA9F}
+	EndGlobalSection
+EndGlobal
